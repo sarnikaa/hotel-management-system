@@ -1,2 +1,2 @@
 # hotel-management-system
-DBMS Pacakage
+DBMS Package
